@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">My name is Abdi Malika and I'm a Backend Developer from PT Sinergi Catra Sinatria</h1>
+<h1 align="left">My name is Abdi Malika and I'm a Backend Developer</h1>
 
 ###
 
